@@ -1,5 +1,4 @@
 const audio = document.querySelector("audio")
-audio.autoplay = true;
 let sonid = document.querySelector('#sonic');
 let i = document.querySelector('i');
 sonic.children[0].addEventListener('click', () => {
