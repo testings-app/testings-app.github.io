@@ -32,3 +32,11 @@ i {
     font-size: 30px;
     cursor: pointer;
 }
+
+
+
+@media screen and (max-width:800px) {
+    div {
+        margin-top: 60px;
+    }
+}
